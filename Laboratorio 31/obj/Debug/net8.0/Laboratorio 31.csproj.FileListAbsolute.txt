@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\Laboratorio3\Laboratorio 31\bin\Debug\net8.0\Laboratorio 31.exe
+C:\Users\ADMIN\source\repos\Laboratorio3\Laboratorio 31\bin\Debug\net8.0\Laboratorio 31.deps.json
+C:\Users\ADMIN\source\repos\Laboratorio3\Laboratorio 31\bin\Debug\net8.0\Laboratorio 31.runtimeconfig.json
+C:\Users\ADMIN\source\repos\Laboratorio3\Laboratorio 31\bin\Debug\net8.0\Laboratorio 31.dll
+C:\Users\ADMIN\source\repos\Laboratorio3\Laboratorio 31\bin\Debug\net8.0\Laboratorio 31.pdb
+C:\Users\ADMIN\source\repos\Laboratorio3\Laboratorio 31\obj\Debug\net8.0\Laboratorio 31.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\Laboratorio3\Laboratorio 31\obj\Debug\net8.0\Laboratorio 31.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Laboratorio3\Laboratorio 31\obj\Debug\net8.0\Laboratorio 31.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Laboratorio3\Laboratorio 31\obj\Debug\net8.0\Laboratorio 31.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Laboratorio3\Laboratorio 31\obj\Debug\net8.0\Laboratorio 31.dll
+C:\Users\ADMIN\source\repos\Laboratorio3\Laboratorio 31\obj\Debug\net8.0\refint\Laboratorio 31.dll
+C:\Users\ADMIN\source\repos\Laboratorio3\Laboratorio 31\obj\Debug\net8.0\Laboratorio 31.pdb
+C:\Users\ADMIN\source\repos\Laboratorio3\Laboratorio 31\obj\Debug\net8.0\Laboratorio 31.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\Laboratorio3\Laboratorio 31\obj\Debug\net8.0\ref\Laboratorio 31.dll
