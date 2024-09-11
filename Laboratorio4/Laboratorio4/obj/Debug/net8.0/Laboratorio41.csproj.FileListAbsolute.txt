@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\Laboratorio4\Laboratorio4\bin\Debug\net8.0\Laboratorio41.exe
+C:\Users\ADMIN\source\repos\Laboratorio4\Laboratorio4\bin\Debug\net8.0\Laboratorio41.deps.json
+C:\Users\ADMIN\source\repos\Laboratorio4\Laboratorio4\bin\Debug\net8.0\Laboratorio41.runtimeconfig.json
+C:\Users\ADMIN\source\repos\Laboratorio4\Laboratorio4\bin\Debug\net8.0\Laboratorio41.dll
+C:\Users\ADMIN\source\repos\Laboratorio4\Laboratorio4\bin\Debug\net8.0\Laboratorio41.pdb
+C:\Users\ADMIN\source\repos\Laboratorio4\Laboratorio4\obj\Debug\net8.0\Laboratorio41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\Laboratorio4\Laboratorio4\obj\Debug\net8.0\Laboratorio41.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Laboratorio4\Laboratorio4\obj\Debug\net8.0\Laboratorio41.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Laboratorio4\Laboratorio4\obj\Debug\net8.0\Laboratorio41.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Laboratorio4\Laboratorio4\obj\Debug\net8.0\Laboratorio41.dll
+C:\Users\ADMIN\source\repos\Laboratorio4\Laboratorio4\obj\Debug\net8.0\refint\Laboratorio41.dll
+C:\Users\ADMIN\source\repos\Laboratorio4\Laboratorio4\obj\Debug\net8.0\Laboratorio41.pdb
+C:\Users\ADMIN\source\repos\Laboratorio4\Laboratorio4\obj\Debug\net8.0\Laboratorio41.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\Laboratorio4\Laboratorio4\obj\Debug\net8.0\ref\Laboratorio41.dll
