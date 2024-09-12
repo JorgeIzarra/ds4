@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\Laboratorio5\Laboratorio52\bin\Debug\net8.0\Laboratorio52.exe
+C:\Users\ADMIN\source\repos\Laboratorio5\Laboratorio52\bin\Debug\net8.0\Laboratorio52.deps.json
+C:\Users\ADMIN\source\repos\Laboratorio5\Laboratorio52\bin\Debug\net8.0\Laboratorio52.runtimeconfig.json
+C:\Users\ADMIN\source\repos\Laboratorio5\Laboratorio52\bin\Debug\net8.0\Laboratorio52.dll
+C:\Users\ADMIN\source\repos\Laboratorio5\Laboratorio52\bin\Debug\net8.0\Laboratorio52.pdb
+C:\Users\ADMIN\source\repos\Laboratorio5\Laboratorio52\obj\Debug\net8.0\Laboratorio52.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\Laboratorio5\Laboratorio52\obj\Debug\net8.0\Laboratorio52.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Laboratorio5\Laboratorio52\obj\Debug\net8.0\Laboratorio52.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Laboratorio5\Laboratorio52\obj\Debug\net8.0\Laboratorio52.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Laboratorio5\Laboratorio52\obj\Debug\net8.0\Laboratorio52.dll
+C:\Users\ADMIN\source\repos\Laboratorio5\Laboratorio52\obj\Debug\net8.0\refint\Laboratorio52.dll
+C:\Users\ADMIN\source\repos\Laboratorio5\Laboratorio52\obj\Debug\net8.0\Laboratorio52.pdb
+C:\Users\ADMIN\source\repos\Laboratorio5\Laboratorio52\obj\Debug\net8.0\Laboratorio52.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\Laboratorio5\Laboratorio52\obj\Debug\net8.0\ref\Laboratorio52.dll
