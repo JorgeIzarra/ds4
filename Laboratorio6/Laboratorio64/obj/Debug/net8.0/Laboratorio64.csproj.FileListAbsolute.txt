@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\Laboratorio6\Laboratorio64\bin\Debug\net8.0\Laboratorio64.exe
+C:\Users\ADMIN\source\repos\Laboratorio6\Laboratorio64\bin\Debug\net8.0\Laboratorio64.deps.json
+C:\Users\ADMIN\source\repos\Laboratorio6\Laboratorio64\bin\Debug\net8.0\Laboratorio64.runtimeconfig.json
+C:\Users\ADMIN\source\repos\Laboratorio6\Laboratorio64\bin\Debug\net8.0\Laboratorio64.dll
+C:\Users\ADMIN\source\repos\Laboratorio6\Laboratorio64\bin\Debug\net8.0\Laboratorio64.pdb
+C:\Users\ADMIN\source\repos\Laboratorio6\Laboratorio64\obj\Debug\net8.0\Laboratorio64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\Laboratorio6\Laboratorio64\obj\Debug\net8.0\Laboratorio64.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Laboratorio6\Laboratorio64\obj\Debug\net8.0\Laboratorio64.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Laboratorio6\Laboratorio64\obj\Debug\net8.0\Laboratorio64.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Laboratorio6\Laboratorio64\obj\Debug\net8.0\Laboratorio64.dll
+C:\Users\ADMIN\source\repos\Laboratorio6\Laboratorio64\obj\Debug\net8.0\refint\Laboratorio64.dll
+C:\Users\ADMIN\source\repos\Laboratorio6\Laboratorio64\obj\Debug\net8.0\Laboratorio64.pdb
+C:\Users\ADMIN\source\repos\Laboratorio6\Laboratorio64\obj\Debug\net8.0\Laboratorio64.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\Laboratorio6\Laboratorio64\obj\Debug\net8.0\ref\Laboratorio64.dll
