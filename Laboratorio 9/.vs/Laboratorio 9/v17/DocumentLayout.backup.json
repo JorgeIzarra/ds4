@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\Laboratorio 9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF96415-7A63-4AA1-ABED-C276DB564F22}|Laboratorio93\\Laboratorio93.csproj|c:\\users\\admin\\source\\repos\\laboratorio 9\\laboratorio93\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF96415-7A63-4AA1-ABED-C276DB564F22}|Laboratorio93\\Laboratorio93.csproj|solutionrelative:laboratorio93\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B0D6F25-56DD-4E1E-BE62-3372989AA0A3}|Laboratorio95\\Laboratorio95.csproj|c:\\users\\admin\\source\\repos\\laboratorio 9\\laboratorio95\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B0D6F25-56DD-4E1E-BE62-3372989AA0A3}|Laboratorio95\\Laboratorio95.csproj|solutionrelative:laboratorio95\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C332F29F-F692-4B63-A285-1977CDC9D2A0}|Laboratorio94\\Laboratorio94.csproj|c:\\users\\admin\\source\\repos\\laboratorio 9\\laboratorio94\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C332F29F-F692-4B63-A285-1977CDC9D2A0}|Laboratorio94\\Laboratorio94.csproj|solutionrelative:laboratorio94\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA20AB15-B020-4854-A8DE-ACE1E8857F01}|Laboratorio92\\Laboratorio92.csproj|c:\\users\\admin\\source\\repos\\laboratorio 9\\laboratorio92\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA20AB15-B020-4854-A8DE-ACE1E8857F01}|Laboratorio92\\Laboratorio92.csproj|solutionrelative:laboratorio92\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5544F5-C8AE-4C83-85DD-649D8392762E}|Laboratorio 91\\Laboratorio 91.csproj|c:\\users\\admin\\source\\repos\\laboratorio 9\\laboratorio 91\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5544F5-C8AE-4C83-85DD-649D8392762E}|Laboratorio 91\\Laboratorio 91.csproj|solutionrelative:laboratorio 91\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Laboratorio 9\\Laboratorio95\\Program.cs",
+              "RelativeDocumentMoniker": "Laboratorio95\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Laboratorio 9\\Laboratorio95\\Program.cs",
+              "RelativeToolTip": "Laboratorio95\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T23:25:13.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Laboratorio 9\\Laboratorio94\\Program.cs",
+              "RelativeDocumentMoniker": "Laboratorio94\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Laboratorio 9\\Laboratorio94\\Program.cs",
+              "RelativeToolTip": "Laboratorio94\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T23:20:18.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Laboratorio 9\\Laboratorio93\\Program.cs",
+              "RelativeDocumentMoniker": "Laboratorio93\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Laboratorio 9\\Laboratorio93\\Program.cs",
+              "RelativeToolTip": "Laboratorio93\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T22:43:58.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Laboratorio 9\\Laboratorio92\\Program.cs",
+              "RelativeDocumentMoniker": "Laboratorio92\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Laboratorio 9\\Laboratorio92\\Program.cs",
+              "RelativeToolTip": "Laboratorio92\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T22:36:44.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Laboratorio 9\\Laboratorio 91\\Program.cs",
+              "RelativeDocumentMoniker": "Laboratorio 91\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Laboratorio 9\\Laboratorio 91\\Program.cs",
+              "RelativeToolTip": "Laboratorio 91\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T22:32:54.174Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
