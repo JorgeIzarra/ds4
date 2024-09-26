@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\Laboratorio10\Laboratorio10-3\bin\Debug\net8.0\Laboratorio10-3.exe
+C:\Users\ADMIN\source\repos\Laboratorio10\Laboratorio10-3\bin\Debug\net8.0\Laboratorio10-3.deps.json
+C:\Users\ADMIN\source\repos\Laboratorio10\Laboratorio10-3\bin\Debug\net8.0\Laboratorio10-3.runtimeconfig.json
+C:\Users\ADMIN\source\repos\Laboratorio10\Laboratorio10-3\bin\Debug\net8.0\Laboratorio10-3.dll
+C:\Users\ADMIN\source\repos\Laboratorio10\Laboratorio10-3\bin\Debug\net8.0\Laboratorio10-3.pdb
+C:\Users\ADMIN\source\repos\Laboratorio10\Laboratorio10-3\obj\Debug\net8.0\Laboratorio10-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\Laboratorio10\Laboratorio10-3\obj\Debug\net8.0\Laboratorio10-3.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Laboratorio10\Laboratorio10-3\obj\Debug\net8.0\Laboratorio10-3.AssemblyInfo.vb
+C:\Users\ADMIN\source\repos\Laboratorio10\Laboratorio10-3\obj\Debug\net8.0\Laboratorio10-3.vbproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Laboratorio10\Laboratorio10-3\obj\Debug\net8.0\Laboratorio10-3.dll
+C:\Users\ADMIN\source\repos\Laboratorio10\Laboratorio10-3\obj\Debug\net8.0\refint\Laboratorio10-3.dll
+C:\Users\ADMIN\source\repos\Laboratorio10\Laboratorio10-3\obj\Debug\net8.0\Laboratorio10-3.pdb
+C:\Users\ADMIN\source\repos\Laboratorio10\Laboratorio10-3\obj\Debug\net8.0\Laboratorio10-3.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\Laboratorio10\Laboratorio10-3\obj\Debug\net8.0\ref\Laboratorio10-3.dll
