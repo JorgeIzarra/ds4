@@ -1,0 +1,16 @@
+C:\Users\ADMIN\source\repos\Laboratorio12\Laboratorio12-3\bin\Debug\net8.0-windows\Laboratorio12-3.exe
+C:\Users\ADMIN\source\repos\Laboratorio12\Laboratorio12-3\bin\Debug\net8.0-windows\Laboratorio12-3.deps.json
+C:\Users\ADMIN\source\repos\Laboratorio12\Laboratorio12-3\bin\Debug\net8.0-windows\Laboratorio12-3.runtimeconfig.json
+C:\Users\ADMIN\source\repos\Laboratorio12\Laboratorio12-3\bin\Debug\net8.0-windows\Laboratorio12-3.dll
+C:\Users\ADMIN\source\repos\Laboratorio12\Laboratorio12-3\bin\Debug\net8.0-windows\Laboratorio12-3.pdb
+C:\Users\ADMIN\source\repos\Laboratorio12\Laboratorio12-3\obj\Debug\net8.0-windows\Laboratorio12_3.Form1.resources
+C:\Users\ADMIN\source\repos\Laboratorio12\Laboratorio12-3\obj\Debug\net8.0-windows\Laboratorio12-3.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\Laboratorio12\Laboratorio12-3\obj\Debug\net8.0-windows\Laboratorio12-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\Laboratorio12\Laboratorio12-3\obj\Debug\net8.0-windows\Laboratorio12-3.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Laboratorio12\Laboratorio12-3\obj\Debug\net8.0-windows\Laboratorio12-3.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Laboratorio12\Laboratorio12-3\obj\Debug\net8.0-windows\Laboratorio12-3.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Laboratorio12\Laboratorio12-3\obj\Debug\net8.0-windows\Laboratorio12-3.dll
+C:\Users\ADMIN\source\repos\Laboratorio12\Laboratorio12-3\obj\Debug\net8.0-windows\refint\Laboratorio12-3.dll
+C:\Users\ADMIN\source\repos\Laboratorio12\Laboratorio12-3\obj\Debug\net8.0-windows\Laboratorio12-3.pdb
+C:\Users\ADMIN\source\repos\Laboratorio12\Laboratorio12-3\obj\Debug\net8.0-windows\Laboratorio12-3.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\Laboratorio12\Laboratorio12-3\obj\Debug\net8.0-windows\ref\Laboratorio12-3.dll
