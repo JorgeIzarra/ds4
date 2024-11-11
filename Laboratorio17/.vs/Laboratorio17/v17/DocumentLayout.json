@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Downloads\\Laboratorio17\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF463BF-01DE-4673-886C-FC3FDCF0E336}|Laboratorio17\\Laboratorio17.csproj|c:\\users\\admin\\downloads\\laboratorio17\\laboratorio17\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2AF463BF-01DE-4673-886C-FC3FDCF0E336}|Laboratorio17\\Laboratorio17.csproj|solutionrelative:laboratorio17\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF463BF-01DE-4673-886C-FC3FDCF0E336}|Laboratorio17\\Laboratorio17.csproj|c:\\users\\admin\\downloads\\laboratorio17\\laboratorio17\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2AF463BF-01DE-4673-886C-FC3FDCF0E336}|Laboratorio17\\Laboratorio17.csproj|solutionrelative:laboratorio17\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 265,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\Laboratorio17\\Laboratorio17\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "Laboratorio17\\WebForm1.aspx",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\Laboratorio17\\Laboratorio17\\WebForm1.aspx",
+              "RelativeToolTip": "Laboratorio17\\WebForm1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-11T02:50:25.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\Laboratorio17\\Laboratorio17\\Default.aspx",
+              "RelativeDocumentMoniker": "Laboratorio17\\Default.aspx",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\Laboratorio17\\Laboratorio17\\Default.aspx",
+              "RelativeToolTip": "Laboratorio17\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-11T02:48:19.202Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 113,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
