@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\Laboratorio18\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74F7CBFC-2102-432E-B0E1-8C49B7B46E56}|Laboratorio181\\Laboratorio181.csproj|c:\\users\\admin\\source\\repos\\laboratorio18\\laboratorio181\\views\\access\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{74F7CBFC-2102-432E-B0E1-8C49B7B46E56}|Laboratorio181\\Laboratorio181.csproj|solutionrelative:laboratorio181\\views\\access\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74F7CBFC-2102-432E-B0E1-8C49B7B46E56}|Laboratorio181\\Laboratorio181.csproj|C:\\Users\\ADMIN\\source\\repos\\Laboratorio18\\laboratorio181\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74F7CBFC-2102-432E-B0E1-8C49B7B46E56}|Laboratorio181\\Laboratorio181.csproj|solutionrelative:laboratorio181\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74F7CBFC-2102-432E-B0E1-8C49B7B46E56}|Laboratorio181\\Laboratorio181.csproj|c:\\users\\admin\\source\\repos\\laboratorio18\\laboratorio181\\controllers\\accesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74F7CBFC-2102-432E-B0E1-8C49B7B46E56}|Laboratorio181\\Laboratorio181.csproj|solutionrelative:laboratorio181\\controllers\\accesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74F7CBFC-2102-432E-B0E1-8C49B7B46E56}|Laboratorio181\\Laboratorio181.csproj|C:\\Users\\ADMIN\\source\\repos\\Laboratorio18\\laboratorio181\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{74F7CBFC-2102-432E-B0E1-8C49B7B46E56}|Laboratorio181\\Laboratorio181.csproj|solutionrelative:laboratorio181\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74F7CBFC-2102-432E-B0E1-8C49B7B46E56}|Laboratorio181\\Laboratorio181.csproj|C:\\Users\\ADMIN\\source\\repos\\Laboratorio18\\laboratorio181\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{74F7CBFC-2102-432E-B0E1-8C49B7B46E56}|Laboratorio181\\Laboratorio181.csproj|solutionrelative:laboratorio181\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 265,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Laboratorio18\\Laboratorio181\\Views\\Access\\Index.cshtml",
+              "RelativeDocumentMoniker": "Laboratorio181\\Views\\Access\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Laboratorio18\\Laboratorio181\\Views\\Access\\Index.cshtml",
+              "RelativeToolTip": "Laboratorio181\\Views\\Access\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T14:42:04.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccessController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Laboratorio18\\Laboratorio181\\Controllers\\AccessController.cs",
+              "RelativeDocumentMoniker": "Laboratorio181\\Controllers\\AccessController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Laboratorio18\\Laboratorio181\\Controllers\\AccessController.cs",
+              "RelativeToolTip": "Laboratorio181\\Controllers\\AccessController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T00:43:32.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Laboratorio18\\Laboratorio181\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Laboratorio181\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Laboratorio18\\Laboratorio181\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Laboratorio181\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T00:35:36.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Laboratorio18\\Laboratorio181\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "Laboratorio181\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Laboratorio18\\Laboratorio181\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "Laboratorio181\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T00:34:56.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Laboratorio18\\Laboratorio181\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Laboratorio181\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Laboratorio18\\Laboratorio181\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Laboratorio181\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T00:30:08.614Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 113,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
