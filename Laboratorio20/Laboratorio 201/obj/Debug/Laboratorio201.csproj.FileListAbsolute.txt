@@ -1,0 +1,25 @@
+C:\Users\ADMIN\source\repos\Laboratorio20\Laboratorio 201\bin\Laboratorio 201.dll.config
+C:\Users\ADMIN\source\repos\Laboratorio20\Laboratorio 201\bin\Laboratorio 201.dll
+C:\Users\ADMIN\source\repos\Laboratorio20\Laboratorio 201\bin\Laboratorio 201.pdb
+C:\Users\ADMIN\source\repos\Laboratorio20\Laboratorio 201\bin\Antlr3.Runtime.dll
+C:\Users\ADMIN\source\repos\Laboratorio20\Laboratorio 201\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\ADMIN\source\repos\Laboratorio20\Laboratorio 201\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\ADMIN\source\repos\Laboratorio20\Laboratorio 201\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ADMIN\source\repos\Laboratorio20\Laboratorio 201\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\ADMIN\source\repos\Laboratorio20\Laboratorio 201\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\ADMIN\source\repos\Laboratorio20\Laboratorio 201\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ADMIN\source\repos\Laboratorio20\Laboratorio 201\bin\Newtonsoft.Json.dll
+C:\Users\ADMIN\source\repos\Laboratorio20\Laboratorio 201\bin\System.Web.Optimization.dll
+C:\Users\ADMIN\source\repos\Laboratorio20\Laboratorio 201\bin\WebGrease.dll
+C:\Users\ADMIN\source\repos\Laboratorio20\Laboratorio 201\bin\System.Web.Optimization.xml
+C:\Users\ADMIN\source\repos\Laboratorio20\Laboratorio 201\bin\Newtonsoft.Json.xml
+C:\Users\ADMIN\source\repos\Laboratorio20\Laboratorio 201\bin\Antlr3.Runtime.pdb
+C:\Users\ADMIN\source\repos\Laboratorio20\Laboratorio 201\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\ADMIN\source\repos\Laboratorio20\Laboratorio 201\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ADMIN\source\repos\Laboratorio20\Laboratorio 201\bin\es\System.Web.Optimization.resources.dll
+C:\Users\ADMIN\source\repos\Laboratorio20\Laboratorio 201\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\ADMIN\source\repos\Laboratorio20\Laboratorio 201\obj\Debug\Laboratorio201.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Laboratorio20\Laboratorio 201\obj\Debug\Laboratorio201.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Laboratorio20\Laboratorio 201\obj\Debug\Laborato.64869E2D.Up2Date
+C:\Users\ADMIN\source\repos\Laboratorio20\Laboratorio 201\obj\Debug\Laboratorio 201.dll
+C:\Users\ADMIN\source\repos\Laboratorio20\Laboratorio 201\obj\Debug\Laboratorio 201.pdb
