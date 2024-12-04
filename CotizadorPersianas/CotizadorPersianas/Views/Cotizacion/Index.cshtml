@@ -1,0 +1,215 @@
+﻿@using System.Web.Mvc
+@using System.Web.Mvc.Html
+@using CotizadorPersianas.Models
+
+@{
+    ViewBag.Title = "Cotizador de Persianas y Cortinas";
+}
+
+<div class="container mt-4">
+    <div class="d-flex justify-content-between align-items-center mb-4">
+        <h2>Cotizador de Persianas y Cortinas</h2>
+        <a href="@Url.Action("Historial", "Cotizacion")" class="btn btn-info">
+            Ver Historial
+        </a>
+    </div>
+
+    <div class="card">
+        <div class="card-body">
+            <form id="cotizacionForm">
+                <div class="row">
+                    <!-- Selección de Tipo de Servicio -->
+                    <div class="col-md-6 mb-3">
+                        <label for="TipoServicioId" class="form-label">Tipo de Servicio</label>
+                        @Html.DropDownList("TipoServicioId",
+                            new SelectList(Model.TiposServicio, "Id", "Nombre"),
+                            "-- Seleccione un tipo --",
+                            new { @class = "form-control" })
+                    </div>
+
+                    <!-- Selección de Subtipo -->
+                    <div class="col-md-6 mb-3">
+                        <label for="SubtipoServicioId" class="form-label">Tipo Específico</label>
+                        @Html.DropDownList("SubtipoServicioId",
+                            new SelectList(new List<SelectListItem>()),
+                            "-- Seleccione primero un tipo --",
+                            new { @class = "form-control" })
+                    </div>
+
+                    <!-- Dimensiones -->
+                    <div class="col-md-6 mb-3">
+                        <label for="Alto" class="form-label">Alto (metros)</label>
+                        @Html.TextBox("Alto", null, new { @class = "form-control", type = "number", step = "0.01" })
+                    </div>
+
+                    <div class="col-md-6 mb-3">
+                        <label for="Ancho" class="form-label">Ancho (metros)</label>
+                        @Html.TextBox("Ancho", null, new { @class = "form-control", type = "number", step = "0.01" })
+                    </div>
+
+                    <!-- Selección de Color -->
+                    <div class="col-md-6 mb-3">
+                        <label for="ColorHex" class="form-label">Color</label>
+                        @Html.TextBox("ColorHex", null, new { @class = "form-control", type = "color" })
+                    </div>
+
+                    <!-- Zona de Instalación -->
+                    <div class="col-md-6 mb-3">
+                        <label for="ZonaId" class="form-label">Zona de Instalación</label>
+                        @Html.DropDownList("ZonaId",
+                            new SelectList(Model.Zonas, "Id", "Nombre"),
+                            "-- Seleccione una zona --",
+                            new { @class = "form-control" })
+                    </div>
+
+                    <!-- Datos del Cliente -->
+                    <div class="col-md-6 mb-3">
+                        <label for="NombreCliente" class="form-label">Nombre</label>
+                        @Html.TextBox("NombreCliente", null, new { @class = "form-control" })
+                    </div>
+
+                    <div class="col-md-6 mb-3">
+                        <label for="Email" class="form-label">Email</label>
+                        @Html.TextBox("Email", null, new { @class = "form-control", type = "email" })
+                    </div>
+
+                    <div class="col-md-6 mb-3">
+                        <label for="Telefono" class="form-label">Teléfono</label>
+                        @Html.TextBox("Telefono", null, new { @class = "form-control" })
+                    </div>
+
+                    <!-- Código de Descuento -->
+                    <div class="col-md-6 mb-3">
+                        <label for="CodigoDescuento" class="form-label">Código de Descuento</label>
+                        @Html.TextBox("CodigoDescuento", null, new { @class = "form-control" })
+                    </div>
+                </div>
+
+                <!-- Resultado -->
+                <div class="mt-4">
+                    <h4>Resumen de Cotización</h4>
+                    <div id="resultadoCotizacion">
+                        <p>Precio Base: <span id="precioBase">$0.00</span></p>
+                        <p>Precio Final: <span id="precioFinal">$0.00</span></p>
+                    </div>
+                </div>
+
+                <button type="button" class="btn btn-primary mt-3" onclick="calcularPrecio()">Calcular Precio</button>
+            </form>
+        </div>
+    </div>
+</div>
+<!-- Modal de Éxito -->
+<div class="modal fade" id="successModal" tabindex="-1" aria-labelledby="successModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header bg-success text-white">
+                <h5 class="modal-title" id="successModalLabel">¡Cotización Exitosa!</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <h6>Resumen de la cotización:</h6>
+                <div class="mt-3">
+                    <p>Precio Base: <span id="modalPrecioBase" class="fw-bold"></span></p>
+                    <p>Precio Final: <span id="modalPrecioFinal" class="fw-bold"></span></p>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-primary" data-bs-dismiss="modal">Aceptar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jquery")
+    <script>
+        $(document).ready(function () {
+            $('#TipoServicioId').change(function () {
+                var tipoId = $(this).val();
+                console.log('TipoId seleccionado:', tipoId); // Para debug
+
+                if (tipoId) {
+                    /// Obtiene los subtipos correspondientes al tipo seleccionado
+                    $.ajax({
+                        url: '/Cotizacion/GetSubtipos',
+                        type: 'GET',
+                        data: { tipoServicioId: tipoId },
+                        success: function (data) {
+                            console.log('Datos recibidos:', data);
+                            var items = '<option value="">-- Seleccione un subtipo --</option>';
+                            if (data && data.length > 0) {
+                                $.each(data, function (i, item) {
+                                    items += '<option value="' + item.Id + '">' + item.Nombre + '</option>';
+                                });
+                            }
+                            $('#SubtipoServicioId').html(items);
+                        },
+                        error: function (xhr, status, error) {
+                            console.error('Error:', error);
+                            console.error('Status:', status);
+                            console.error('Response:', xhr.responseText);
+                        }
+                    });
+                } else {
+                    $('#SubtipoServicioId').html('<option value="">-- Seleccione primero un tipo --</option>');
+                }
+            });
+        });
+
+        function calcularPrecio() {
+            if (!validarFormulario()) {
+                return;
+            }
+
+            var formData = {
+                SubtipoServicioId: $('#SubtipoServicioId').val(),
+                ZonaId: $('#ZonaId').val(),
+                Alto: $('#Alto').val(),
+                Ancho: $('#Ancho').val(),
+                ColorHex: $('#ColorHex').val(),
+                NombreCliente: $('#NombreCliente').val(),
+                Email: $('#Email').val(),
+                Telefono: $('#Telefono').val(),
+                CodigoDescuento: $('#CodigoDescuento').val()
+            };
+
+            $.post('/Cotizacion/CalcularPrecio', formData, function (data) {
+                if (data.success) {
+                    $('#precioBase').text('$' + data.precioBase.toFixed(2));
+                    $('#precioFinal').text('$' + data.precioFinal.toFixed(2));
+
+                    // Actualizar y mostrar el modal
+                    $('#modalPrecioBase').text('$' + data.precioBase.toFixed(2));
+                    $('#modalPrecioFinal').text('$' + data.precioFinal.toFixed(2));
+                    var modal = new bootstrap.Modal(document.getElementById('successModal'));
+                    modal.show();
+                } else {
+                    alert(data.message || 'Por favor complete todos los campos requeridos');
+                }
+            }).fail(function () {
+                alert('Error al calcular el precio. Por favor intente nuevamente.');
+            });
+        }
+
+        function validarFormulario() {
+            if (!$('#SubtipoServicioId').val()) {
+                alert('Por favor seleccione un tipo específico');
+                return false;
+            }
+            if (!$('#ZonaId').val()) {
+                alert('Por favor seleccione una zona');
+                return false;
+            }
+            if (!$('#Alto').val() || !$('#Ancho').val()) {
+                alert('Por favor ingrese las dimensiones');
+                return false;
+            }
+            if (!$('#NombreCliente').val()) {
+                alert('Por favor ingrese el nombre del cliente');
+                return false;
+            }
+            return true;
+        }
+    </script>
+}

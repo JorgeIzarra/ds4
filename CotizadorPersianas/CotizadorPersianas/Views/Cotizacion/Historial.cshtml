@@ -1,0 +1,48 @@
+﻿@model IEnumerable<CotizadorPersianas.Models.Cotizacion>
+
+@{
+    ViewBag.Title = "Historial de Cotizaciones";
+}
+
+<div class="container mt-4">
+    <div class="d-flex justify-content-between align-items-center mb-4">
+        <h2>Historial de Cotizaciones</h2>
+        <a href="@Url.Action("ExportarPDF", "Cotizacion")" class="btn btn-success">
+            Exportar a PDF
+        </a>
+    </div>
+
+    <div class="card">
+        <div class="card-body">
+            <div class="table-responsive">
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th>Fecha</th>
+                            <th>Cliente</th>
+                            <th>Tipo</th>
+                            <th>Subtipo</th>
+                            <th>Dimensiones</th>
+                            <th>Zona</th>
+                            <th>Precio Final</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>@item.Fecha.ToString("dd/MM/yyyy HH:mm")</td>
+                                <td>@item.NombreCliente</td>
+                                <td>@item.SubtipoServicio.TipoServicio.Nombre</td>
+                                <td>@item.SubtipoServicio.Nombre</td>
+                                <td>@item.Alto x @item.Ancho m</td>
+                                <td>@item.Zona.Nombre</td>
+                                <td>$@item.PrecioFinal.ToString("N2")</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
